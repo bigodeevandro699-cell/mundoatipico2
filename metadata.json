@@ -1,0 +1,6 @@
+{
+  "name": "Mundo Atípico",
+  "description": "Aplicativo de acolhimento, atividades terapêuticas, rotina visual e acompanhamento do desenvolvimento para crianças com TEA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
